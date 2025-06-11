@@ -2,7 +2,7 @@
 
 A simple weather app built using HTML, CSS, and JavaScript. It shows real-time weather data using the OpenWeatherMap API.
 
-[Click here to view screenshot](screenshot.png)
+[Click here to view screenshot](Screenshot.png)
 
 ## 🔍 Features
 
